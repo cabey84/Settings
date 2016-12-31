@@ -1,5 +1,5 @@
 # Settings-
-project designed to demonstrate custom table view cells, delegates creating protocols, and implementing MVC patterns
+project designed to demonstrate delegate pattern in custom table view cells, creating protocols, and implementing MVC patterns
 
 
 1. Delegate Pattern in the Custom Cell/View Controller 
